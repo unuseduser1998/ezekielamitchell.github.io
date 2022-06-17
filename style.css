@@ -1,0 +1,87 @@
+body {
+  background-color: rgb(250, 250, 250);
+  padding: 10pxt;
+  max-width: 70%;
+  margin: auto;
+}
+
+h1 {
+  font-size: x-large;
+  font-weight: 1;
+  color: black;
+  background-color: lightgray;
+  text-align: center;
+  font-family: monospace;
+  text-decoration: none;
+}
+
+.img {
+  height: 200px;
+  width: 150px;
+  display: block;
+  border-radius: 1em;
+}
+
+h2 {
+  color: black;
+  font-size: 18px;
+  font-family: monospace;
+  font-weight: bold;
+}
+
+h4 {
+  color: black;
+  font-size: 18px;
+  font-family: sans-serif;
+  font-weight: normal;
+  line-height: 1.4em;
+}
+
+div {
+  font-size: 18px;
+  line-height: 1.4em;
+  font-family: "Times New Roman", Times, serif;
+  text-align: justify;
+}
+
+p {
+  font-size: 18px;
+  line-height: 2em;
+  font-family: "Times New Roman", Times, serif;
+  text-align: justify;
+  text-decoration: underline;
+}
+
+nav {
+  color: rgb(0, 0, 0);
+  font-size: 16px;
+  font-family: sans-serif;
+  font-weight: normal;
+  text-decoration: none;
+}
+
+li {
+  line-height: 1.4em;
+  text-decoration: none;
+}
+
+a {
+  text-decoration: underline;
+  color: darkblue;
+}
+
+a:hover {
+  color: blue;
+  text-decoration: none;
+}
+
+footer {
+  text-align: left;
+  color: gray;
+  text-decoration: none;
+}
+
+.note {
+  color: darkblue;
+  text-decoration: solid;
+}
