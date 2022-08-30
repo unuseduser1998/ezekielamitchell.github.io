@@ -1,7 +1,7 @@
 body {
   background-color: whitesmoke;
-  padding: 12px;
-  max-width: 70%;
+  padding: 5%;
+  max-width: 60%;
   margin: auto;
 }
 
@@ -15,10 +15,11 @@ h1 {
 }
 
 .img {
-  height: 200px;
-  width: 150px;
+  height: 150px;
+  width: 120px;
   display: block;
-  border-radius: 1em;
+  border-radius: 0.25em;
+  float: left;
 }
 
 h2 {
@@ -42,6 +43,7 @@ div {
   line-height: 1.6em;
   font-family: Arial;
   text-align: justify;
+  float: bottom;
 }
 
 p {
